@@ -1,5 +1,5 @@
 # MNIST_dataset_classifier
-This repo implements a neural-net classifier on the classical MNIST data using Keras
+This repository implements a neural-net classifier on the classical MNIST data using Keras
 
 ## About Dataset
 The MNIST database contains 60,000 training images and 10,000 testing images taken from American Census Bureau employees and American high school students
@@ -17,7 +17,7 @@ Clone the repository
 Opening notebook on local host:
 ```
   cd MNIST_dataset_classifier
-  Jupyter-notebook
+  jupyter-notebook
 ```
 ### Training Model :-
 
